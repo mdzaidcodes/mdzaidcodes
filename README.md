@@ -1,12 +1,15 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdzaidcodes&theme=tokyonight&hide_border=true&show_icons=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=mdzaidcodes&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdzaidcodes&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzaidcodes&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=mdzaidcodes&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzaidcodes&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" height="165"/>
 </p>
 
 ---
@@ -15,7 +18,7 @@
 
 AI Engineer specializing in **Deep Learning, Generative AI, and LLM-powered systems**.
 
-Experienced across the full ML lifecycle — research, fine-tuning, deployment, optimization, and monitoring.
+Experienced across the full ML lifecycle — research, fine-tuning, deployment, optimization, monitoring, and scaling.
 
 Built and shipped production-grade AI systems and scalable ML infrastructure across multiple companies in under two years.
 
@@ -63,11 +66,11 @@ Focused on turning research-stage models into reliable, high-performance product
 ![NumPy](https://img.shields.io/badge/NumPy-1E40AF?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-1E40AF?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1E40AF?style=for-the-badge&logo=opencv&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-1E40AF?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ### Generative AI & LLM Engineering
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-1E40AF?style=for-the-badge&logo=huggingface&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1E40AF?style=for-the-badge)
-![MLflow](https://img.shields.io/badge/MLflow-1E40AF?style=for-the-badge&logo=mlflow&logoColor=white)
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
@@ -88,6 +91,13 @@ Focused on turning research-stage models into reliable, high-performance product
 
 ---
 
+## 🎨 Frontend
+![React](https://img.shields.io/badge/React-1E40AF?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1E40AF?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-1E40AF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
 ## 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-1E40AF?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1E40AF?style=for-the-badge&logo=mysql&logoColor=white)
@@ -103,5 +113,13 @@ Focused on turning research-stage models into reliable, high-performance product
 ![Docker](https://img.shields.io/badge/Docker-1E40AF?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1E40AF?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-1E40AF?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+## 🎨 Design & Productivity
+![Figma](https://img.shields.io/badge/Figma-1E40AF?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-1E40AF?style=for-the-badge&logo=canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-1E40AF?style=for-the-badge&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-1E40AF?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
