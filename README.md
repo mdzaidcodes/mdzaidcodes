@@ -52,22 +52,30 @@ Focused on turning research-stage models into reliable, high-performance product
 ---
 
 ## 🤖 AI / ML & Generative AI
+
+### Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-1E40AF?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1E40AF?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-1E40AF?style=for-the-badge&logo=keras&logoColor=white)
+
+### ML & Data
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-1E40AF?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-1E40AF?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-1E40AF?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1E40AF?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Generative AI & LLM Engineering
+![Hugging Face](https://img.shields.io/badge/HuggingFace-1E40AF?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1E40AF?style=for-the-badge)
 ![MLflow](https://img.shields.io/badge/MLflow-1E40AF?style=for-the-badge&logo=mlflow&logoColor=white)
 
-**Generative AI & LLM Systems**
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Fine-tuning & PEFT
+- AI Agents & Tool-Calling Systems
+- Fine-Tuning (LoRA / PEFT)
 - Prompt Engineering
-- Model Deployment & Optimization
+- Model Quantization & Optimization
+- Model Monitoring & Experiment Tracking
 
 ---
 
@@ -77,13 +85,6 @@ Focused on turning research-stage models into reliable, high-performance product
 ![Flask](https://img.shields.io/badge/Flask-1E40AF?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-1E40AF?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-1E40AF?style=for-the-badge&logo=express&logoColor=white)
-
----
-
-## 🎨 Frontend
-![React](https://img.shields.io/badge/React-1E40AF?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-1E40AF?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-1E40AF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
@@ -104,15 +105,3 @@ Focused on turning research-stage models into reliable, high-performance product
 ![Nginx](https://img.shields.io/badge/Nginx-1E40AF?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
-
-## 🎨 Design & Productivity
-![Figma](https://img.shields.io/badge/Figma-1E40AF?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-1E40AF?style=for-the-badge&logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-1E40AF?style=for-the-badge&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-1E40AF?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mdzaidcodes&icon=5&color=12"/>
-</p>
